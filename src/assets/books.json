@@ -1,0 +1,83 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "ISBN": "978-3-16-148410-0",
+      "price": 15.99,
+      "description": "A story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+      "image": "https://example.com/great-gatsby.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "ISBN": "978-1-25-016940-5",
+      "price": 12.50,
+      "description": "A coming-of-age story set in the fictional town of Maycomb, Alabama, during the Great Depression.",
+      "image": "https://example.com/to-kill-a-mockingbird.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "ISBN": "978-0-14-143951-8",
+      "price": 9.99,
+      "description": "A classic novel following the experiences of the Bennet sisters as they navigate love, marriage, and society in 19th-century England.",
+      "image": "https://example.com/pride-and-prejudice.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "ISBN": "978-0-452-28423-3",
+      "price": 11.75,
+      "description": "A dystopian novel set in a totalitarian society where individualism is suppressed and critical thinking is forbidden.",
+      "image": "https://example.com/1984.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "ISBN": "978-0-316-76953-6",
+      "price": 14.25,
+      "description": "A story of teenage angst and rebellion as told by the protagonist, Holden Caulfield.",
+      "image": "https://example.com/catcher-in-the-rye.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "ISBN": "978-0-618-00221-1",
+      "price": 10.99,
+      "description": "A fantasy adventure novel that follows Bilbo Baggins on a quest to reclaim the dwarves' homeland from the dragon Smaug.",
+      "image": "https://example.com/the-hobbit.jpg"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "ISBN": "978-0-7475-3269-6",
+      "price": 13.50,
+      "description": "The first book in the Harry Potter series, introducing the young wizard and his journey at Hogwarts School of Witchcraft and Wizardry.",
+      "image": "https://example.com/harry-potter-philosophers-stone.jpg"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "ISBN": "978-1-85326-018-2",
+      "price": 16.75,
+      "description": "The story of Captain Ahab's obsessive quest to hunt down the white whale, Moby-Dick.",
+      "image": "https://example.com/moby-dick.jpg"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "ISBN": "978-0-618-05777-8",
+      "price": 19.99,
+      "description": "An epic high fantasy trilogy following Frodo Baggins and his companions on a quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "image": "https://example.com/lord-of-the-rings.jpg"
+    },
+    {
+      "title": "Random Book",
+      "author": "Random Author",
+      "ISBN": "978-0-000-00000-0",
+      "price": 9.99,
+      "description": "This is a randomly generated book example.",
+      "image": "https://example.com/random-book.jpg"
+    }
+  ]
+  
